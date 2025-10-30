@@ -1,0 +1,90 @@
+PHARMACEUTICAL RESEARCH DOCUMENT
+Drug Safety and Interaction Study - Ibuprofen
+
+ABSTRACT
+This document outlines comprehensive safety information, drug interactions, and clinical guidelines for Ibuprofen, a commonly used nonsteroidal anti-inflammatory drug (NSAID).
+
+SIDE EFFECTS OF IBUPROFEN
+
+Common Side Effects:
+- Gastrointestinal discomfort including nausea, vomiting, and diarrhea
+- Headaches and dizziness
+- Drowsiness or fatigue
+- Mild skin rashes
+
+Serious Side Effects (Require Immediate Medical Attention):
+- Severe allergic reactions including swelling of face, throat, and tongue
+- Severe gastrointestinal bleeding and ulcers
+- Liver dysfunction indicated by yellowing of skin or eyes
+- Kidney problems evidenced by changes in urination patterns
+- High blood pressure
+- Heart attack or stroke symptoms
+
+DRUG INTERACTIONS
+
+Major Interactions:
+- Blood thinners (warfarin, aspirin) - increased risk of bleeding
+- Lithium - may increase lithium levels in blood
+- Methotrexate - may increase methotrexate toxicity
+- ACE inhibitors - may reduce blood pressure medication effectiveness
+- Diuretics - may reduce effectiveness of water pills
+
+Moderate Interactions:
+- Cyclosporine - increased risk of kidney damage
+- High-dose aspirin - may reduce Ibuprofen effectiveness
+- Corticosteroids - increased risk of gastrointestinal bleeding
+
+CLINICAL GUIDELINES
+
+Dosage Recommendations:
+- Adults: 200-400mg every 4-6 hours as needed
+- Maximum daily dose: 1200-3200mg depending on condition
+- Should not exceed recommended dosage
+- Take with food or milk to reduce stomach irritation
+
+Contraindications:
+- Active stomach ulcers
+- Severe heart failure
+- Severe kidney disease
+- Third trimester of pregnancy
+- Known hypersensitivity to NSAIDs
+
+FDA SAFETY RECOMMENDATIONS FOR PARACETAMOL
+
+Summary of FDA Guidelines:
+
+1. Dosage Limits:
+- Maximum daily dose: 3,000mg for healthy adults
+- Should not exceed 4,000mg per day under any circumstances
+- Recommended single dose: 500-1000mg
+
+2. Liver Safety:
+- Risk of severe liver damage with overdose
+- Patients with liver disease should consult healthcare provider
+- Avoid combining with other acetaminophen-containing products
+- Be aware that many cold medications contain acetaminophen
+
+3. Overdose Prevention:
+- Never take more than directed
+- Check other medications for acetaminophen content
+- Seek immediate medical help if overdose suspected
+- Time is critical - antidote (N-acetylcysteine) most effective within 8 hours
+
+4. Warnings:
+- Do not use with alcohol - increases liver toxicity risk
+- Not recommended for patients with severe liver impairment
+- Pregnancy and breastfeeding: Use only if clearly needed
+
+ASPIRIN INTERACTIONS
+
+Drug Interactions with Aspirin:
+- Anticoagulants - Increased bleeding risk
+- Other NSAIDs - Can reduce aspirin's cardioprotective effects
+- ACE inhibitors - May diminish antihypertensive effects
+- Corticosteroids - Increased risk of gastrointestinal complications
+- Methotrexate - Increased toxicity risk
+
+Clinical Recommendations:
+- Should not be taken with other NSAIDs due to increased GI risk
+- Consult healthcare provider before combining with blood thinners
+- Maintain adequate hydration when taking aspirin regularly
