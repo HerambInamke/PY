@@ -10,12 +10,13 @@ def check_env_file():
     if not os.path.exists('.env'):
         print("⚠️  Warning: .env file not found!")
         print("📝 Creating .env.example file...")
-        print("✅ Please copy .env.example to .env and add your Google Gemini API key")
+        print("✅ Please copy .env.example to .env and add your Groq API key")
         return False
     
     with open('.env', 'r') as f:
-        if 'GOOGLE_API_KEY' not in f.read():
-            print("⚠️  Warning: GOOGLE_API_KEY not found in .env file")
+        content = f.read()
+        if 'GROQ_API_KEY' not in content:
+            print("⚠️  Warning: GROQ_API_KEY not found in .env file")
             return False
     
     print("✅ .env file found with API key")
@@ -27,7 +28,7 @@ def main():
     
     # Check for .env file
     if not check_env_file():
-        print("\n⚠️  Setup incomplete. Please add your Google Gemini API key first.")
+        print("\n⚠️  Setup incomplete. Please add your Groq API key first.")
         return
     
     # Check if requirements are installed
